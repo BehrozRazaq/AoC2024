@@ -1,0 +1,15 @@
+numpy
+scipy
+sympy
+networkx
+regex
+tqdm
+pydantic
+more-itertools
+bitarray
+z3-solver
+joblib
+Levenshtein
+pyparsing
+rich
+matplotlib
